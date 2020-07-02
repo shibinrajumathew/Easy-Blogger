@@ -1,7 +1,7 @@
 # initialHibernate
 ###### A trial to hibernate + TDD
 
-__Features Upcomming and Done__
+__Features Upcomming or Already Done__
 - [x] Basic Get
 - [ ] Post- Create new entry
 - [ ] Patch = Modify already present entry
