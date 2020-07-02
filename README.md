@@ -1,5 +1,5 @@
 # initialHibernate
-###### A trial to hibernate + TDD
+###### A trial to hibernate + TDD and CI
 
 __Features Upcomming or Already Done__
 - [x] Basic Get
